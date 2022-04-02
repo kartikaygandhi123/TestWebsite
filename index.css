@@ -1,0 +1,165 @@
+
+
+body{
+position: sticky;
+    background-image: url("ferrari.jpg");
+    width: fit-content;
+}
+
+.header{
+    /* background-image: url(f1.jpg); */
+    
+    display: flex;
+    color: white;
+    border: none;
+    background-color: black;
+    align-items: center;
+    padding: 55px;
+    justify-content: center;
+    height: 107px;
+    width:100%;
+    border: 10px solid  rgb(184, 184, 184) ;
+    position: sticky;
+    font-size: larger;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+}
+
+
+#logo{border: none;
+    display: flex;
+    width: fit-content;
+       
+
+}
+
+/* .navbar{
+    width: 100%;
+    color: maroon;
+    border: 2px solid grey;
+    margin-left: 0px;
+    margin-right: 20px;
+padding-left: 50px;
+padding-right: 5px;
+align-items: center;
+
+} */
+
+
+
+#topaddress{
+   
+
+font-style: italic;
+display: flex;
+color: white;
+border: none;
+background-color: black;
+align-items: center;
+padding: 0px;
+justify-content: left;
+height: 1%;
+width:fit-content;
+/* border: 2px solid maroon; */
+align-items: baseline;
+margin-bottom: 31px;
+font-size: medium;
+/* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+font-family: 'Brush Script MT', cursive;
+}
+
+#topaddress2{
+   
+
+
+    font-style: italic;
+display: flex;
+color: white;
+border: none;
+background-color: black;
+align-items: center;
+padding: 0px;
+justify-content: left;
+height: 1%;
+width:fit-content;
+/* border: 2px solid maroon; */
+align-items: baseline;
+margin-top: -69px;
+font-size: medium;
+/* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+font-family: 'Brush Script MT', cursive;
+}
+
+ 
+
+
+
+  .maindocument{
+      
+    background-color: rgb(184, 184, 184);
+    width: 100%;
+    margin-top: 20%;
+    display: flex;
+    font-family: 'Brush Script MT', cursive;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    border: 15px solid maroon;
+
+    margin-right: 0%;
+    margin-left: 45px;
+    
+    
+          }
+
+          .servicesvalue{
+
+            padding: 55px;
+
+          }
+
+
+
+          .overview{
+    
+
+
+
+}
+
+
+.service1{
+    display: flex;
+    border: 10px solid white ;
+    border-radius: 25px;
+    width: 100%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    padding: 25px;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+#bottom{
+    margin-left: 50%;
+}
+
+
+.footer{
+
+    
+    background-color: maroon;
+    border: none;
+    margin-top: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 15px solid  rgb(184, 184, 184) ;
+    
+margin-left: 6%;
+    
+}
+
+
